@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+playwright/.cache/
+test-results/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+sreality_zzdiby_listings.json
+sreality_zzdiby_listings.csv
